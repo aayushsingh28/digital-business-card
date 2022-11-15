@@ -1,20 +1,20 @@
 {
-  "files": {
-    "main.css": "/static/css/main.b0476071.css",
-    "main.js": "/static/js/main.d94abea7.js",
-    "static/js/787.86b5e812.chunk.js": "/static/js/787.86b5e812.chunk.js",
-    "static/media/Instagram-logo.webp": "/static/media/Instagram-logo.eee5ef3f2824e5990fc3.webp",
-    "static/media/Aayush.png": "/static/media/Aayush.9c9ba08594398bb73c67.png",
-    "static/media/Twitter-logo.jpeg": "/static/media/Twitter-logo.7a3a4bd6f1e7d3523bcc.jpeg",
-    "static/media/Facebook-logo.png": "/static/media/Facebook-logo.d46992c02a27d446b89a.png",
-    "static/media/Github-logo.png": "/static/media/Github-logo.a5527b5c02e754fc4a6d.png",
-    "index.html": "/index.html",
-    "main.b0476071.css.map": "/static/css/main.b0476071.css.map",
-    "main.d94abea7.js.map": "/static/js/main.d94abea7.js.map",
-    "787.86b5e812.chunk.js.map": "/static/js/787.86b5e812.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.b0476071.css",
-    "static/js/main.d94abea7.js"
-  ]
+  "main.css": "/static/css/main.3da8b4c4.chunk.css",
+  "main.js": "/static/js/main.7b31e145.chunk.js",
+  "main.js.map": "/static/js/main.7b31e145.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.bb9cb1ed.js",
+  "runtime~main.js.map": "/static/js/runtime~main.bb9cb1ed.js.map",
+  "static/js/2.603766ba.chunk.js": "/static/js/2.603766ba.chunk.js",
+  "static/js/2.603766ba.chunk.js.map": "/static/js/2.603766ba.chunk.js.map",
+  "static/js/3.a2d6af6c.chunk.js": "/static/js/3.a2d6af6c.chunk.js",
+  "static/js/3.a2d6af6c.chunk.js.map": "/static/js/3.a2d6af6c.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.8372b1df4f595b73488e3544c2e9bba1.js": "/precache-manifest.8372b1df4f595b73488e3544c2e9bba1.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.3da8b4c4.chunk.css.map": "/static/css/main.3da8b4c4.chunk.css.map",
+  "static/media/Aayush.png": "/static/media/Aayush.0cbd0740.png",
+  "static/media/Facebook-logo.png": "/static/media/Facebook-logo.96823b0e.png",
+  "static/media/Github-logo.png": "/static/media/Github-logo.dcf16ddd.png",
+  "static/media/Instagram-logo.webp": "/static/media/Instagram-logo.0014a4a2.webp",
+  "static/media/Twitter-logo.jpeg": "/static/media/Twitter-logo.a8062f1a.jpeg"
 }
