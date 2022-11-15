@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0476071.css",
+    "main.js": "/static/js/main.d94abea7.js",
+    "static/js/787.86b5e812.chunk.js": "/static/js/787.86b5e812.chunk.js",
+    "static/media/Instagram-logo.webp": "/static/media/Instagram-logo.eee5ef3f2824e5990fc3.webp",
+    "static/media/Aayush.png": "/static/media/Aayush.9c9ba08594398bb73c67.png",
+    "static/media/Twitter-logo.jpeg": "/static/media/Twitter-logo.7a3a4bd6f1e7d3523bcc.jpeg",
+    "static/media/Facebook-logo.png": "/static/media/Facebook-logo.d46992c02a27d446b89a.png",
+    "static/media/Github-logo.png": "/static/media/Github-logo.a5527b5c02e754fc4a6d.png",
+    "index.html": "/index.html",
+    "main.b0476071.css.map": "/static/css/main.b0476071.css.map",
+    "main.d94abea7.js.map": "/static/js/main.d94abea7.js.map",
+    "787.86b5e812.chunk.js.map": "/static/js/787.86b5e812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0476071.css",
+    "static/js/main.d94abea7.js"
+  ]
+}
